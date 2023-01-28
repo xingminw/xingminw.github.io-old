@@ -1,0 +1,3 @@
+[submodule "themes/sime"]
+	path = themes/sime
+	url = https://github.com/cmpute/hugo-theme-sime.git
