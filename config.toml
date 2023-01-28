@@ -1,21 +1,14 @@
-baseURL = "https://zyxin.xyz/academic"
+baseURL = "https://xingminw.github.io/"
 defaultContentLanguage = 'en-us'
 theme = "sime"
 disableKinds = ["taxonomy", "term"]
 
-[languages.en-us]
-name = "Yuanxin Zhong"
+name = "Xingmin Wang"
 title = "Curriculum Vitae"
-description = "Research Interests: 3D Machine Learning, Connected and Automated Vehicles"
-job = "Ph.D. Student"
-copyright = "[Copyright © Yuanxin Zhong](https://zyxin.xyz)"
+description = "Traffic Network Model, Traffic Flow Theory, Connected and Automated Transportation"
+job = "Ph.D. Candidate"
+copyright = "[Copyright © Xingmin Wang](https://xingminw.github.io/)"
 
-[languages.zh-cn]
-name = "钟元鑫"
-title = "中文简历"
-description = "研究方向：三维机器学习, 智能网联汽车"
-job = "在读博士生"
-copyright = "[版权所有 © 钟元鑫](https://zyxin.xyz)"
 
 [markup.goldmark.renderer]
 unsafe = true
