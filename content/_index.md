@@ -4,20 +4,20 @@ lastmod: 2023-01-27
 
 header:
   - text: Introduction
-    icon: fa fa-book
+    icon: fas fa-book
   - text: Education
     icon: fas fa-user-graduate
-  - text: Publications & Conferences
+  - text: Publications and Conferences
     icon: fas fa-book
   - text: Presentations
-    icon: fa fa-desktop
-  - text: Work Experiences
+    icon: fas fa-desktop
+  - text: Work Experience
     icon: fas fa-briefcase
     right_text: Please refer to my Linkedin profile for work details
     right_icon: fab fa-linkedin
     right_url: https://www.linkedin.com/in/xingminw
-  - text: Teaching & Services
-    icon: fa fa-users
+  - text: Teaching and Services
+    icon: fas fa-users
   - text: Awards
     icon: fas fa-award
 

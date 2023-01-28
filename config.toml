@@ -3,6 +3,7 @@ defaultContentLanguage = 'en-us'
 theme = "sime"
 disableKinds = ["taxonomy", "term"]
 
+[params]
 name = "Xingmin Wang"
 title = "Curriculum Vitae"
 description = "Traffic Network Model, Traffic Flow Theory, Connected and Automated Transportation"

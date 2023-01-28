@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xingmin Wang on Curriculum Vitae</title>
-    <link>https://zyxin.xyz/academic/</link>
+    <link>https://xingminw.github.io/</link>
     <description>Recent content in Xingmin Wang on Curriculum Vitae</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>[Copyright © Yuanxin Zhong](https://zyxin.xyz)</copyright>
-    <lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://zyxin.xyz/academic/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>[Copyright © Xingmin Wang](https://xingminw.github.io/)</copyright>
+    <lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://xingminw.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
