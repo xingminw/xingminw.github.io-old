@@ -56,6 +56,9 @@ Major in Automotive Engineering (**89.0**/100.0), Rank Top 5%
 
 ## Publications and Conferences
 
+- __Traffic Signal Control under Stochastic Traffic Demand and Vehicle Turning via Decentralized Decomposition Approaches__ (2023)
+    Xinyu Fei, **Xingmin Wang**, Xian Yu, Yiheng Feng, Henry X. Liu, Siqian Shen, Yafeng Yin
+  *European Journal of Operational Research*, [<i class="ai ai-doi"></i> DOI](https://doi.org/10.1016/j.ejor.2023.04.012)
 - __Learning the max pressure control for urban traffic networks considering the phase switching loss__ (2022)
   **Xingmin Wang**, Yafeng Yin, Yiheng Feng, Henry X. Liu. 
   *Transportation Research Part C: Emerging Technologies 140, 103670*, [<i class="ai ai-doi"></i> DOI](https://doi.org/10.1016/j.trc.2022.103670)
@@ -65,9 +68,6 @@ Major in Automotive Engineering (**89.0**/100.0), Rank Top 5%
 - __Determining Yellow Change and Clearance Intervals for Left-Turning Phases: Evaluation of the Current Guidelines with Connected Vehicle Data__ (2022)
 Zachary Jerome, **Xingmin Wang**, Shengyin Shen, Henry X Liu
   *Transportation Research Record, 03611981221091557*, [<i class="ai ai-doi"></i> DOI](https://doi.org/10.1177/03611981221091557)
-- __Traffic Signal Control under Stochastic Traffic Demand and Vehicle Turning via Decentralized Decomposition Approaches__ (2022)
-    Xinyu Fei, **Xingmin Wang**, Xian Yu, Yiheng Feng, Henry X. Liu, Siqian Shen, Yafeng Yin
-  *European Journal of Operational Research* (under review)
 - __Data Infrastructure for Connected Vehicle Applications__ (2020)
   **Xingmin Wang**, Shengyin Shen, Debra Bezzina, James R Sayer, Henry X Liu, Yiheng Feng
   *Transportation Research Record 2674 (5), 85-96*, [<i class="ai ai-doi"></i> DOI](https://doi.org/10.1177/0361198120912424)
@@ -110,8 +110,11 @@ This is a text This is a textThis is a textThis is a textThis is a textThis is a
 <span style="float: right; display: inline-block;"> 2020 Winter </span> **Graduate Student Instructor** for CEE 450: Introduction to Transportation Engineering
 
 ### Services
-Reviewer of Transportation Research Part C: Emerging Technologies
-<span style="float: right; display: inline-block;"> 2020-2022  </span> **Vice President** of Michigan Transportation Student Organization (MiTSO)
+
+**Editorial assistent**, Journal of Intelligent Transportation Systems 
+**Conference secretariat**, 25th International Symposium on Transportation and Traffic Theory
+**Reviewer**, Transportation Research Part C: Emerging Technologies
+<span style="float: right; display: inline-block;"> 2020-2022  </span> **Vice President**, Michigan Transportation Student Organization (MiTSO)
 
 ## Awards
 - <span style="float: right; display: inline-block;"> 2019 </span> Department Fellowship (Civil Engineering, University of Michigan)
