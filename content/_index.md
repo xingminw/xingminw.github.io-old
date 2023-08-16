@@ -40,14 +40,14 @@ download:
   icon: fas fa-download fa-fw
 ---
 
-## Introduction
+<!-- ## Introduction
 
-I am currently a fifth-year Ph.D. student in Department of Civil & Environmental Engineering at University of Michigan. I am fortunate to be advised by Dr. Henry Liu in [Michigan Traffic Lab](https://traffic.engin.umich.edu/). My research interests include traffic modeling, traffic control and management, especially with regard to connected and automated transportation. My Ph.D. dissertation is mainly about traffic state estimation and traffic signal optimization with connected vehicle data.
+My research interests include traffic modeling, traffic control and management, especially with regard to connected and automated transportation. My Ph.D. dissertation is mainly about traffic state estimation and traffic signal optimization with connected vehicle data. -->
 
 
 ## Education
 
-<span style="float: right; display: inline-block;"> Sept. 2018- </span> **Ph.D. Candidate, Civil Engineering, University of Michigan**
+<span style="float: right; display: inline-block;"> Sept. 2018 - Aug. 2023</span> **Ph.D., Civil Engineering and Scientific Computing, University of Michigan**
 Major in Next Generation Transportation System (**4.0**/4.0)
 ***Selected Courses***: Linear/Nonlinear/Dynamic Programming, Transportation Network Model, RL Theory
 
